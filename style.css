@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+
+* {
+    font-family: 'Karla', sans-serif;
+    box-sizing: border-box;
+}
+body {
+    background-color: #FBF7EE;
+    padding-left: 10%;
+    padding-right: 10%;
+}
